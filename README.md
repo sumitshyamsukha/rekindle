@@ -6,7 +6,7 @@ Rekindle reminds you of Facebook friends you haven't chatted with in a long time
 
 ### Installation 
 
-Rekindle requires [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) to run.
+Rekindle requires [Node.js](https://nodejs.org/) 4.x and [npm](https://www.npmjs.com/) to run.
 You will also need to install the [Facebook Chat API]('https://www.npmjs.com/package/facebook-chat-api') package by running:
 
 ```sh
